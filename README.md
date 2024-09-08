@@ -25,6 +25,8 @@
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=dark&locale=ru)
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=dark&locale=ru)
 ![Полосы активности](https://streak-stats.demolab.com?user=blysspeak&theme=dark&locale=ru)
-![Моя WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak)
+
+## ⏳ Время за программированием:
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=radical)
 
 ⭐️ From [Blysspeak](https://github.com/blysspeak)
