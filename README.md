@@ -27,6 +27,10 @@
 ![Полосы активности](https://streak-stats.demolab.com?user=blysspeak&theme=dark&locale=ru)
 
 ## ⏳ Время за программированием:
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=radical)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=dark)
 
-⭐️ From [Blysspeak](https://github.com/blysspeak)
+## 📬 Контакты:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/blysspeak)](https://t.me/blysspeak)
+
+⭐️ From [Blysspeak](https://t.me/blysspeak)
+
