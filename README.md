@@ -22,11 +22,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ## 📊 Моя статистика на GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=radical&locale=ru)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=radical&locale=ru)
-![Полосы активности](https://streak-stats.demolab.com?user=blysspeak&theme=radical&locale=ru)
-
-## 🏆 Мои трофеи на GitHub:
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=blysspeak&theme=radical&margin-w=15&margin-h=15)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=dark&locale=ru)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=dark&locale=ru)
+![Полосы активности](https://streak-stats.demolab.com?user=blysspeak&theme=dark&locale=ru)
+![Моя WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak)
 
 ⭐️ From [Blysspeak](https://github.com/blysspeak)
