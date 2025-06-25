@@ -74,15 +74,18 @@
 
 </div>
 
-## 📊 GitHub Статистика
+## 📊 Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=minimal&hide_border=true&langs_count=6" />
+
+</div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=tokyonight&hide_border=true&layout=compact" />
+![](https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=minimal&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
