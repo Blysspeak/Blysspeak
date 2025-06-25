@@ -1,38 +1,117 @@
-# Привет, я Blysspeak 👋
+# Привет! Я Blysspeak 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Blysspeak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blysspeak/)](https://www.linkedin.com/in/blysspeak/)
-[![Gmail Badge](https://img.shields.io/badge/-blysspeak%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blysspeak@gmail.com)](mailto:blysspeak@gmail.com)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Enthusiast;React+%26+Node.js+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-## 👨‍💻 О себе:
-Я увлеченный разработчик, который активно изучает и вливается в IT сферу, всегда готов к новым задачам и новаторским идеям. Программирование для меня — это не просто работа, это способ реализовывать свои идеи и творческие задумки.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blysspeak/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blysspeak)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blysspeak@gmail.com)
 
-- 🔭 Хочу поработать в **Telegram**.
-- 🌱 Изучаю программирование, чтобы создавать инновационные проекты.
-- 👯 Мечтаю лично познакомиться с **Илоном Маском**.
-- 🚀 Хочу побывать в **космосе**.
-- 📚 Активно читаю профессиональную литературу, в том числе книги по личностному росту.
-- 🔥 В свои 24 года полон энергии и готов реализовывать самые смелые идеи.
+</div>
 
-## 🔧 Технологии и инструменты:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+## 🚀 О себе
 
-## 📊 Моя статистика на GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=dark&locale=ru)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=dark&locale=ru)
-![Полосы активности](https://streak-stats.demolab.com?user=blysspeak&theme=dark&locale=ru)
+Увлеченный разработчик с амбициозными целями и неиссякаемой страстью к инновациям. В 24 года полон энергии для реализации самых смелых технологических проектов.
 
-## ⏳ Время за программированием:
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=dark)
+```javascript
+const blysspeak = {
+  code: ['JavaScript', 'TypeScript', 'Python', 'SQL'],
+  technologies: {
+    frontEnd: ['React', 'Next.js', 'HTML5', 'CSS3'],
+    backEnd: ['Node.js', 'Express.js', 'PostgreSQL'],
+    tools: ['Docker', 'Prisma', 'Git', 'VS Code'],
+    cloud: ['AWS', 'Vercel', 'Railway']
+  },
+  currentGoals: ['Работа в Telegram', 'Космические технологии', 'Встреча с Илоном Маском'],
+  funFact: 'Мечтаю побывать в космосе 🚀'
+}
+```
 
-## 📬 Контакты:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/blysspeak)](https://t.me/blysspeak)
+## 🛠️ Технологический стек
 
-⭐️ From [Blysspeak](https://t.me/blysspeak)
+<div align="center">
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Technologies
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=blysspeak&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+## 🎯 Текущие цели
+
+- 🎯 **Карьера**: Присоединиться к команде Telegram
+- 🌌 **Мечта**: Полететь в космос
+- 🤝 **Встреча**: Лично познакомиться с Илоном Маском
+- 📚 **Обучение**: Изучение новых технологий и фреймворков
+- 🚀 **Проекты**: Создание инновационных продуктов
+
+## 🔥 Активность
+
+<!--START_SECTION:activity-->
+<!-- Здесь будет автоматически обновляться активность с помощью GitHub Actions -->
+<!--END_SECTION:activity-->
+
+## 🌟 Интересные проекты
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=awesome-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/another-project)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Blysspeak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blysspeak&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🤝 Давайте создадим что-то крутое вместе!
+
+Всегда открыт для интересных проектов и сотрудничества. Если у вас есть идея, которая может изменить мир — пишите!
+
+<div align="center">
+
+**"Код — это поэзия в движении, а программисты — поэты цифрового века"** ✨
+
+---
+
+⭐️ Поставьте звезду, если вам понравился мой профиль!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=blysspeak&color=brightgreen&style=for-the-badge)
+
+</div>
