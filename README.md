@@ -102,14 +102,14 @@
 <!-- Здесь будет автоматически обновляться активность с помощью GitHub Actions -->
 <!--END_SECTION:activity-->
 
-## 🌟 Интересные проекты
+<!-- ## 🌟 Интересные проекты
 
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=awesome-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/awesome-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/another-project)
 
-</div>
+</div> -->
 
 ## 📈 Contribution Graph
 
