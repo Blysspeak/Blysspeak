@@ -27,16 +27,14 @@
 <td width="50%">
 
 **🎯 Цели**
-
 - Работа в Telegram
-- Космические технологии
+- Космические технологии  
 - Встреча с Илоном Маском
 
 </td>
 <td width="50%">
 
 **🚀 Интересы**
-
 - Инновационные проекты
 - Искусственный интеллект
 - Освоение космоса
@@ -50,7 +48,6 @@
 <div align="center">
 
 ### Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -59,14 +56,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Tools & Technologies
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -78,14 +73,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=minimal&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
   
-![](https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=minimal&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
