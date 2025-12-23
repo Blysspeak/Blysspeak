@@ -1,136 +1,78 @@
-# Привет! Я Blysspeak 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Hey,%20I'm%20Blysspeak&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20Telegram%20Bots%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Enthusiast;React+%26+Node.js+Developer;Always+learning+new+things)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blysspeak/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blysspeak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blysspeak@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@blysspeak-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/blysspeak)
+[![LinkedIn](https://img.shields.io/badge/-blysspeak-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blysspeak/)
+[![Email](https://img.shields.io/badge/-blysspeak@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:blysspeak@gmail.com)
 
 </div>
 
-## 👨‍💻 About Me
+## About
 
-<div align="left">
+25-летний разработчик из Минска. Строю backend-системы и Telegram-ботов, мечтаю попасть в команду Telegram. В свободное время исследую космические технологии и слежу за SpaceX.
 
-**Full Stack Developer** | **25 лет** | **Минск, Беларусь**
+```typescript
+const blysspeak = {
+    focus: "Telegram Bot Development",
+    stack: ["TypeScript", "Node.js", "PostgreSQL", "Redis"],
+    currentProject: "Building monetizable Telegram bots for global audience",
+    askMeAbout: ["Grammy framework", "Bot monetization", "Webhook architecture"]
+};
+```
 
-Создаю современные веб-приложения с фокусом на производительность и пользовательский опыт. Специализируюсь на JavaScript экосистеме и постоянно изучаю новые технологии.
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,redis,docker,git&theme=dark" />
 
 </div>
 
+<details>
+<summary><b>Full tech stack</b></summary>
 <br>
 
-<table>
-<tr>
-<td width="50%">
+| Layer | Technologies |
+|:------|:-------------|
+| **Languages** | TypeScript, JavaScript |
+| **Runtime** | Node.js, Bun |
+| **Frameworks** | Grammy, Express, Next.js |
+| **Databases** | PostgreSQL, Redis |
+| **ORM** | Prisma |
+| **Frontend** | React, HTML/CSS |
+| **DevOps** | Docker, AWS, Vercel |
 
-**🎯 Цели**
-- Работа в Telegram
-- Космические технологии  
-- Встреча с Илоном Маском
+</details>
 
-</td>
-<td width="50%">
+## Current Focus
 
-**🚀 Интересы**
-- Инновационные проекты
-- Искусственный интеллект
-- Освоение космоса
+🤖 **Telegram Bots** — Разрабатываю продуктовые боты с подписочной моделью монетизации  
+🌍 **Global Scale** — Мультиязычные решения для международной аудитории  
+📈 **Solo Product** — Исследую ниши habit tracking и productivity automation
 
-</td>
-</tr>
-</table>
-
-## 🛠️ Технологический стек
+## Stats
 
 <div align="center">
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&count_private=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=blysspeak&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=6E7681" />
 
 </div>
 
-## 📊 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blysspeak/blysspeak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blysspeak/blysspeak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/blysspeak/blysspeak/output/github-snake.svg" />
+</picture>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blysspeak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blysspeak&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-  
-![](https://github-readme-streak-stats.demolab.com?user=blysspeak&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-## 📈 Текущий фокус
-
-<div align="center">
-  
-| Область | Проекты | Технологии |
-|---------|---------|------------|
-| **Frontend** | SPA приложения | React, TypeScript, Next.js |
-| **Backend** | API разработка | Node.js, PostgreSQL, Prisma |
-| **DevOps** | Деплой и CI/CD | Docker, AWS, Vercel |
-
-</div>
-
-## 🔥 Активность
-
-<!--START_SECTION:activity-->
-<!-- Здесь будет автоматически обновляться активность с помощью GitHub Actions -->
-<!--END_SECTION:activity-->
-
-<!-- ## 🌟 Интересные проекты
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=awesome-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blysspeak&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/blysspeak/another-project)
-
-</div> -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Blysspeak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blysspeak&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🤝 Давайте создадим что-то крутое вместе!
-
-Всегда открыт для интересных проектов и сотрудничества. Если у вас есть идея, которая может изменить мир — пишите!
-
-<div align="center">
-
-**"Код — это поэзия в движении, а программисты — поэты цифрового века"** ✨
 
 ---
 
-⭐️ Поставьте звезду, если вам понравился мой профиль!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=blysspeak&color=brightgreen&style=for-the-badge)
+<div align="center">
+  
+*Open to collaborate on Telegram bot projects and innovative tech ideas*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
