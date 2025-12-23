@@ -55,7 +55,7 @@ const blysspeak = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-57dgf6nul-blysspeaks-projects.vercel.app/api?username=blysspeak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&count_private=true" />
+<img height="160" src="https://github-readme-stats-roan-two-36.vercel.app/api?username=blysspeak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&count_private=true" />
 <img height="160" src="https://streak-stats.demolab.com?user=blysspeak&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=6E7681" />
 
 </div>
