@@ -60,6 +60,14 @@ const blysspeak = {
 
 </div>
 
+<div align="center">
+
+<a href="https://github.com/Blysspeak/timeforged">
+  <img src="https://blysspeak.space/github/timeforged/blysspeak.svg?theme=dark&days=7" width="495" alt="TimeForged Weekly Activity" />
+</a>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blysspeak/blysspeak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blysspeak/blysspeak/output/github-snake.svg" />
