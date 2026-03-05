@@ -27,10 +27,6 @@ const blysspeak = {
 
 <br><br>
 
-<img height="160" src="https://github-readme-stats-roan-two-36.vercel.app/api?username=blysspeak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&count_private=true" />
-
-<br><br>
-
 <a href="https://github.com/Blysspeak/timeforged">
   <img src="https://blysspeak.space/github/timeforged/blysspeak.svg" width="766" alt="TimeForged Activity" />
 </a>
