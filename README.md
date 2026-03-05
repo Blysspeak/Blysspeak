@@ -63,7 +63,7 @@ const blysspeak = {
 <div align="center">
 
 <a href="https://github.com/Blysspeak/timeforged">
-  <img src="https://blysspeak.space/github/timeforged/blysspeak.svg?theme=dark&days=7" width="495" alt="TimeForged Weekly Activity" />
+  <img src="https://blysspeak.space/github/timeforged/blysspeak.svg" width="766" alt="TimeForged Activity" />
 </a>
 
 </div>
