@@ -14,4 +14,4 @@ GitHub profile README repository for [Blysspeak](https://github.com/Blysspeak). 
 - No build system, no dependencies, no tests — this is a static content repo.
 - The snake workflow pushes generated SVGs to the `output` branch via `crazy-max/ghaction-github-pages@v4`.
 - README uses centered HTML layout with shields.io badges and skillicons.dev icons.
-- TimeForged card is served from `timeforged.blysspeak.space`.
+- TimeForged card is served from `timeforged.nexalix.ru`.
