@@ -7,7 +7,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 GitHub profile README repository for [Blysspeak](https://github.com/Blysspeak). Contains:
 - `README.md` — profile page with badges, tech stack, and a TimeForged activity card
 - `.github/workflows/snake.yml` — GitHub Action generating a contribution snake animation (Platane/snk@v3), runs every 12h and on push to `main`, outputs to `output` branch
-- `snane.yml` — legacy/duplicate snake config at repo root (not used by GitHub Actions)
 
 ## Key Details
 
