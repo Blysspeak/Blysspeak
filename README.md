@@ -89,7 +89,7 @@
 <br><br>
 
 <a href="https://github.com/Blysspeak/timeforged">
-  <img src="https://timeforged.nexalix.ru/api/v1/card/blysspeak?theme=dark" width="766" alt="TimeForged Activity" />
+  <img src="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=dark" width="766" alt="TimeForged Activity" />
 </a>
 
 </div>
