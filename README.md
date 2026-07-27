@@ -96,13 +96,13 @@ In development since 2021. Almost four years at EPAM Systems in Minsk, from 2021
 
 <a href="https://github.com/Blysspeak/timeforged">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=light">
-    <img src="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=light" width="766" alt="Coding activity, measured by my own TimeForged instance">
+    <source media="(prefers-color-scheme: dark)" srcset="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=dark&days=90">
+    <source media="(prefers-color-scheme: light)" srcset="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=light&days=90">
+    <img src="https://timeforged.nexalix.io/api/v1/card/blysspeak?theme=light&days=90" width="766" alt="Coding activity, measured by my own TimeForged instance">
   </picture>
 </a>
 
-<sub>Coding time measured by my own TimeForged instance, not by a third party widget.</sub>
+<sub>Last 90 days, measured by my own TimeForged instance, not by a third party widget.</sub>
 
 </div>
 
