@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40blysspeak-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/blysspeak)
 [![Email](https://img.shields.io/badge/blysspeak%40nexalix.io-1F6FEB?style=flat-square&logo=minutemailer&logoColor=white)](mailto:blysspeak@nexalix.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blysspeak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/blysspeak)
-[![Website](https://img.shields.io/badge/nexalix.io-111111?style=flat-square&logo=astro&logoColor=white)](https://nexalix.io)
+[![Nexalix Labs](https://img.shields.io/badge/nexalix.io-0B0D10?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTkgOSBMMjMgMTEgTDEzIDIzIFoiIHN0cm9rZT0iI0Y1RjdGQSIgc3Ryb2tlLXdpZHRoPSIxLjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZmlsbD0ibm9uZSIvPjxjaXJjbGUgY3g9IjkiIGN5PSI5IiByPSIyLjQiIGZpbGw9IiNGNUY3RkEiLz48Y2lyY2xlIGN4PSIyMyIgY3k9IjExIiByPSIyLjQiIGZpbGw9IiNGNUY3RkEiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjIzIiByPSIyLjgiIGZpbGw9IiMwMDk4RUEiLz48L3N2Zz4=)](https://nexalix.io)
 
 </div>
 

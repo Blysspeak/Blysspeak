@@ -29,12 +29,20 @@
   </g>
   <rect x="884" y="40" width="1" height="126" fill="#0969da" opacity=".22"/>
 
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
-    <text x="56" y="88" fill="#1f2328" font-size="44" font-weight="600" letter-spacing="-.8">Vladislav Rakhmanov</text>
-    <text x="56" y="126" fill="#59636e" font-size="17" font-weight="400">Backend engineer for the part of a system where money moves.</text>
-    <text x="56" y="152" fill="#59636e" font-size="17" font-weight="400">Acquiring, subscriptions, ledgers, webhooks that are safe to receive twice.</text>
-    <text x="56" y="188" fill="#0969da" font-size="14" font-weight="500" letter-spacing=".4">TypeScript · Node.js · PostgreSQL · Founder of Nexalix Labs</text>
+  <!-- знак Nexalix: три узла графа, акцентный узел цвета TON -->
+  <g transform="translate(56 56) scale(1.55)">
+    <path d="M9 9 L23 11 L13 23 Z" stroke="#1f2328" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="9" cy="9" r="2.3" fill="#1f2328"/>
+    <circle cx="23" cy="11" r="2.3" fill="#1f2328"/>
+    <circle cx="13" cy="23" r="2.7" fill="#0098EA"/>
   </g>
 
-  <rect x="56" y="168" width="420" height="1" fill="url(#fade)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="128" y="88" fill="#1f2328" font-size="44" font-weight="600" letter-spacing="-.8">Vladislav Rakhmanov</text>
+    <text x="128" y="126" fill="#59636e" font-size="17" font-weight="400">Backend engineer for the part of a system where money moves.</text>
+    <text x="128" y="152" fill="#59636e" font-size="17" font-weight="400">Acquiring, subscriptions, ledgers, webhooks that are safe to receive twice.</text>
+    <text x="128" y="188" fill="#0969da" font-size="14" font-weight="500" letter-spacing=".4">TypeScript · Node.js · PostgreSQL · Founder of Nexalix Labs</text>
+  </g>
+
+  <rect x="128" y="168" width="420" height="1" fill="url(#fade)"/>
 </svg>
