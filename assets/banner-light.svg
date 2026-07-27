@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Vladislav Rakhmanov, backend engineer for the part of a system where money moves">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="#ffffff"/>
+  <rect x="0" y="0" width="3" height="220" fill="url(#edge)"/>
+
+  <!-- ledger rows: длина строк как суммы в журнале транзакций -->
+  <g fill="#0969da" opacity=".18">
+    <rect x="900" y="52" width="220" height="2" rx="1"/>
+    <rect x="900" y="72" width="164" height="2" rx="1"/>
+    <rect x="900" y="92" width="198" height="2" rx="1"/>
+    <rect x="900" y="112" width="128" height="2" rx="1"/>
+    <rect x="900" y="132" width="176" height="2" rx="1"/>
+    <rect x="900" y="152" width="96" height="2" rx="1"/>
+  </g>
+  <g fill="#0969da" opacity=".55">
+    <circle cx="884" cy="53" r="2.5"/>
+    <circle cx="884" cy="93" r="2.5"/>
+    <circle cx="884" cy="133" r="2.5"/>
+  </g>
+  <rect x="884" y="40" width="1" height="126" fill="#0969da" opacity=".22"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="56" y="88" fill="#1f2328" font-size="44" font-weight="600" letter-spacing="-.8">Vladislav Rakhmanov</text>
+    <text x="56" y="126" fill="#59636e" font-size="17" font-weight="400">Backend engineer for the part of a system where money moves.</text>
+    <text x="56" y="152" fill="#59636e" font-size="17" font-weight="400">Acquiring, subscriptions, ledgers, webhooks that are safe to receive twice.</text>
+    <text x="56" y="188" fill="#0969da" font-size="14" font-weight="500" letter-spacing=".4">TypeScript · Node.js · PostgreSQL · Founder of Nexalix Labs</text>
+  </g>
+
+  <rect x="56" y="168" width="420" height="1" fill="url(#fade)"/>
+</svg>
