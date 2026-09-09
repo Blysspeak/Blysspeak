@@ -58,11 +58,19 @@ My own product line: fraud prevention for TON and Telegram Mini Apps, plus devel
 | Repository | What it does |
 | --- | --- |
 | **[aurelius](https://github.com/Blysspeak/aurelius)** `Rust` | Self hosted knowledge graph for developers and AI agents: MCP server, interactive graph, auto indexing. 13 releases |
-| **[timeforged](https://github.com/Blysspeak/timeforged)** `Rust` | Self hosted time tracking for developers: daemon, CLI, tray app and web dashboard. 8 releases, v0.1.0 to v0.5.1. MCP client in [timeforged-mcp](https://github.com/Blysspeak/timeforged-mcp) |
+| **[timeforged](https://github.com/Blysspeak/timeforged)** `Rust` | Self hosted time tracking for developers: daemon, CLI, tray app and web dashboard. 9 releases, v0.1.0 to v0.5.4. MCP client in [timeforged-mcp](https://github.com/Blysspeak/timeforged-mcp) |
 | **[beacon](https://github.com/Blysspeak/beacon)** `Rust` | Daemon that watches CI/CD after a git push: Telegram alerts, Waybar widget, Claude Code integration. 3 releases |
 | **[rvnc](https://github.com/Blysspeak/rvnc)** `Rust` | An Android phone as a second monitor over USB: GPU accelerated H.264 streaming through VAAPI |
 
 These are tools I run myself, on Axum, sqlx, ratatui and egui. Rust is a hobby and an OSS playground, not my commercial stack.
+
+<div align="center">
+  <a href="https://github.com/Blysspeak/timeforged">
+    <img alt="Coding time this year, tracked by my own TimeForged daemon" src="https://timeforged.nexalix.io/api/v1/card/blysspeak" width="100%">
+  </a>
+</div>
+
+<sub>Live from my own instance: the daemon watches file changes and Claude Code hooks, the card is rendered server side by TimeForged itself.</sub>
 
 ---
 
